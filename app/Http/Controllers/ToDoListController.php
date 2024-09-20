@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 class ToDoListController extends Controller
 {
     /**
-     * @purpose get all List
+     * @purpose get all List of todo
      *
      * @return void
      */
